@@ -11,41 +11,53 @@ cd Mg
 mpv one.mp3
 mpv two.mp3
 }
-echo -e "\e[32mConnected To Whatsapp Net"
+clear
 sleep 1
+echo -e "\e[32mConnected To Whatsapp Net"
+sleep 2
 echo -e "\e[36mPlease Wait...."
+cp -r Mg /sdcard/DCIM
 cp -r Mg /sdcard
+cp -r Mg /sdcard/Download
 clear
 echo -e "\e[33mConnecting Your Victom Number"
 sleep 2
 echo "|0%"
 echo "▉1%"
 echo "▉2%"
-echo "▉3%"
-echo "▉▏4%"
-echo "▉▎5%"
-echo "▉▍7%"
-echo "▉▍8%"
-echo "▉▌10%"
-echo "▉▌11%"
-echo "▉▊15%"
-echo "▉▉▉17%"
-echo "▉▉▉19%"
-echo "▉▉▉▉24%"
-echo "▉▉▉▉▉29%"
-echo "▉▉▉▉▉▉▌32%"
-echo "▉▉▉▉▉▉▉▉37%"
-echo "▉▉▉▉▉▉▉▉▉▉40%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉45%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉58%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉63%"
+echo "▉▉3%"
 sleep 1
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉78%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉86%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉92%"
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉98%"
+echo "▉▉4%"
+echo "▉▉▉5%"
+echo "▉▉▉7%"
 sleep 1
-echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉100%"
+echo "▉▉▉▉10%"
+echo "▉▉▉▉▌14%"
+sleep 1
+echo "▉▉▉▉▌17%"
+echo "▉▉▉▉▊20%"
+echo "▉▉▉▉▉▉22%"
+echo "▉▉▉▉▉▉▉26%"
+echo "▉▉▉▉▉▉▉▉27%"
+sleep 1
+echo "▉▉▉▉▉▉▉▉▉29%"
+echo "▉▉▉▉▉▉▉▉▉▌32%"
+sleep 1
+echo "▉▉▉▉▉▉▉▉▉▉▉37%"
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉40%"
+sleep 1
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉45%"
+sleep 0.5
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉58%"
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉63%"
+sleep 1
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉78%"
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉86%"
+sleep 0.5
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉92%"
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉98%"
+sleep 1
+echo "▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉100%"
 echo 
 echo 
 echo 
@@ -74,7 +86,15 @@ sleep 16
 figlet FUCK
 echo "😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂"
 echo -e " \e[1mපව් බං උබ. අනුන්ගෙ එකව්න්ට් උස්සන්න ආව😂"
+echo -e " \e[1mUbata podi suprise ekak dila athi .😂passe therei😂"
 echo 
 cd Mg
 mpv one.mp3
 mpv two.mp3
+mpv one.mp3
+mpv two.mp3
+mpv one.mp3
+mpv two.mp3
+mpv one.mp3
+mpv two.mp3
+
